@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150581803592",
+    "project_id": "moengage-c218f",
+    "storage_bucket": "moengage-c218f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150581803592:android:26098c05484eb898e7b67d",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150581803592-jejnkvihbv2d0ccnvv4omdfqol43njoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sample",
+            "certificate_hash": "87d0576a114b10419ccefee68ad634770c46803e"
+          }
+        },
+        {
+          "client_id": "150581803592-ue5bo6gkaf8t62qoc0p9p3dpd65km4tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9bffRwxPtACLx_AbHEcQ8lohT9-AtJBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150581803592-ue5bo6gkaf8t62qoc0p9p3dpd65km4tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
