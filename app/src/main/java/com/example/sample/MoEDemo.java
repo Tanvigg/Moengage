@@ -16,7 +16,7 @@ public class MoEDemo extends Application {
 
         // configure MoEngage initializer
         MoEngage moEngage =
-                new MoEngage.Builder(this, "S2BM5UBXMJ7UN4QAMN3GNMEO")//enter your own app id
+                new MoEngage.Builder(this, "EU4BXB4BGL7YKTHCM6AQZ5YU")//enter your own app id
                         .configureLogs(new LogConfig(LogLevel.VERBOSE, false))
                         // production
                         .build();

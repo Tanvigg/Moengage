@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         //identify user uniquely across installs and devices
         //this id should be the one the app uses to identify user in your system
         //should be set only after log-in
-        MoEHelper.getInstance(getApplicationContext()).setUniqueId("androidsample");
+        MoEHelper.getInstance(getApplicationContext()).setUniqueId("samplemoengage");
 
         //tracking user attributes samples
         MoEHelper.getInstance(getApplicationContext()).setFullName("Michael Jordan");
